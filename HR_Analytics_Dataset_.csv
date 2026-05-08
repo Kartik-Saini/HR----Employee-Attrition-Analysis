@@ -1,0 +1,51 @@
+﻿emp_id,name,department,job_role,gender,age,education,marital_status,salary,years_at_company,years_in_role,performance_rating,job_satisfaction,work_life_balance,overtime,attrition,distance_from_home
+1,Rahul Sharma,Sales,Sales Executive,Male,28,Bachelor,Single,45000,3,2,3,4,3,Yes,No,5
+2,Priya Verma,HR,HR Manager,Female,35,Master,Married,75000,8,5,4,3,4,No,No,12
+3,Amit Kumar,IT,Software Engineer,Male,26,Bachelor,Single,60000,2,2,2,2,2,Yes,Yes,25
+4,Sneha Patel,Finance,Analyst,Female,30,Bachelor,Married,55000,5,3,3,3,3,No,No,8
+5,Karan Singh,Sales,Sales Manager,Male,40,Master,Married,90000,12,8,4,4,4,No,No,3
+6,Pooja Nair,IT,Data Analyst,Female,27,Bachelor,Single,65000,3,3,3,4,3,Yes,No,15
+7,Vikram Rao,HR,Recruiter,Male,29,Bachelor,Single,42000,2,1,2,2,2,Yes,Yes,20
+8,Meera Joshi,Finance,Senior Analyst,Female,33,Master,Married,70000,7,4,4,4,4,No,No,6
+9,Suresh Gupta,Sales,Sales Executive,Male,25,Bachelor,Single,38000,1,1,1,1,1,Yes,Yes,30
+10,Anita Reddy,IT,DevOps Engineer,Female,31,Master,Married,80000,6,4,4,3,4,No,No,10
+11,Rohit Mehta,Sales,Sales Executive,Male,27,Bachelor,Single,40000,2,2,2,2,2,Yes,Yes,18
+12,Kavita Shah,HR,HR Executive,Female,26,Bachelor,Single,38000,1,1,1,1,1,Yes,Yes,22
+13,Deepak Tiwari,Finance,Accountant,Male,32,Bachelor,Married,52000,6,4,3,3,3,No,No,7
+14,Ritu Agarwal,IT,QA Engineer,Female,28,Bachelor,Single,55000,3,2,3,3,3,Yes,No,14
+15,Manoj Yadav,Sales,Sales Manager,Male,42,Master,Married,95000,14,10,4,4,4,No,No,4
+16,Divya Pillai,HR,Training Manager,Female,38,Master,Married,72000,10,7,4,4,4,No,No,9
+17,Ajay Pandey,IT,Software Engineer,Male,24,Bachelor,Single,58000,1,1,2,3,2,Yes,Yes,28
+18,Sunita Rao,Finance,CFO,Female,45,PhD,Married,150000,18,12,4,4,4,No,No,5
+19,Prakash Nair,Sales,Sales Executive,Male,26,Bachelor,Single,37000,1,1,1,1,1,Yes,Yes,35
+20,Geeta Sharma,IT,Data Scientist,Female,32,Master,Married,95000,5,3,4,4,4,No,No,11
+21,Nitin Jain,HR,HR Manager,Male,36,Master,Married,78000,9,6,4,3,4,No,No,13
+22,Preeti Gupta,Finance,Analyst,Female,29,Bachelor,Single,53000,4,3,3,3,3,No,No,16
+23,Sanjay Kumar,Sales,Sales Executive,Male,31,Bachelor,Married,43000,4,3,2,2,2,Yes,Yes,21
+24,Alka Verma,IT,Software Engineer,Female,25,Bachelor,Single,61000,2,2,3,3,3,Yes,No,19
+25,Ramesh Singh,Finance,Senior Analyst,Male,37,Master,Married,75000,10,7,4,4,4,No,No,6
+26,Nisha Patel,Sales,Sales Executive,Female,24,Bachelor,Single,36000,1,1,1,1,1,Yes,Yes,32
+27,Tarun Mehta,IT,DevOps Engineer,Male,29,Bachelor,Single,78000,4,3,3,4,3,Yes,No,17
+28,Shweta Tiwari,HR,Recruiter,Female,27,Bachelor,Single,40000,2,1,2,2,2,Yes,Yes,24
+29,Arun Reddy,Finance,Accountant,Male,33,Bachelor,Married,51000,7,5,3,3,3,No,No,8
+30,Pooja Singh,IT,QA Engineer,Female,26,Bachelor,Single,54000,2,2,2,2,2,Yes,Yes,26
+31,Vivek Sharma,Sales,Sales Manager,Male,43,Master,Married,92000,15,11,4,4,4,No,No,3
+32,Rashmi Nair,HR,HR Executive,Female,25,Bachelor,Single,37000,1,1,1,1,1,Yes,Yes,29
+33,Gaurav Yadav,IT,Data Analyst,Male,30,Bachelor,Married,68000,5,4,3,4,3,No,No,12
+34,Manisha Agarwal,Finance,Analyst,Female,28,Bachelor,Single,52000,3,2,3,3,3,No,No,15
+35,Sachin Pandey,Sales,Sales Executive,Male,27,Bachelor,Single,39000,2,2,2,2,2,Yes,Yes,22
+36,Archana Pillai,IT,Software Engineer,Female,29,Master,Married,72000,4,3,4,4,4,No,No,9
+37,Vijay Kumar,HR,Training Manager,Male,40,Master,Married,70000,12,8,4,3,4,No,No,10
+38,Leela Joshi,Finance,CFO,Female,48,PhD,Married,145000,20,14,4,4,4,No,No,4
+39,Harish Gupta,Sales,Sales Executive,Male,25,Bachelor,Single,36500,1,1,1,1,1,Yes,Yes,33
+40,Priyanka Rao,IT,Data Scientist,Female,33,Master,Married,98000,6,4,4,4,4,No,No,7
+41,Sunil Mehta,HR,HR Manager,Male,37,Master,Married,80000,10,7,4,3,4,No,No,14
+42,Ananya Verma,Finance,Senior Analyst,Female,34,Master,Married,73000,8,6,4,4,4,No,No,5
+43,Rajan Singh,Sales,Sales Executive,Male,28,Bachelor,Single,41000,3,2,2,2,2,Yes,Yes,20
+44,Smita Patel,IT,QA Engineer,Female,27,Bachelor,Single,56000,3,2,3,3,3,Yes,No,16
+45,Naresh Tiwari,Finance,Accountant,Male,35,Bachelor,Married,53000,8,6,3,3,3,No,No,9
+46,Kavya Nair,Sales,Sales Manager,Female,39,Master,Married,88000,11,8,4,4,4,No,No,6
+47,Dinesh Sharma,IT,Software Engineer,Male,26,Bachelor,Single,62000,2,2,3,3,3,Yes,No,21
+48,Jyoti Reddy,HR,Recruiter,Female,28,Bachelor,Single,41000,3,2,2,2,2,Yes,Yes,27
+49,Ashok Kumar,Finance,Analyst,Male,31,Bachelor,Married,54000,5,3,3,3,3,No,No,11
+50,Neha Yadav,IT,Data Analyst,Female,29,Bachelor,Married,70000,4,3,4,4,4,No,No,8
